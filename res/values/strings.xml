@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mi Nombre</string>
+    <string name="name">Nombre</string>
+    <string name="surname1">1er Apellido</string>
+    <string name="surname2">2o Apellido</string>
+    <string name="defaultName">Ignacio</string>
+    <string name="defaultSurname1">López</string>
+    <string name="defaultSurname2">Montaner</string>
+    <string name="reset">Resetear</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">OK</string>
+    <string name="prefsFile">SettingsFile</string>
+    <string name="settingsActivity">Configuración</string>
+    
+</resources>
