@@ -1,7 +1,11 @@
 MiNombre
 ========
 
-Android project created with eclipse from a Processing sketch. It includes a settings activity on top of the default Processing screen/activity
+Android project created with eclipse from a Processing sketch. It includes a <code>Settings</code> activity on top of the default Processing screen/activity
+
+To start the <code>Settings</code> activity, just click on the main Processing screen where the names are drawn.
+
+Free aplication available for download from Google Play: https://play.google.com/store/apps/details?id=com.tumaku.minombre
 
 Notes
 =====
